@@ -39,3 +39,66 @@ education:
     summary: |
       Факультет физико-математических и естественных наук.
       Изучение программирования, баз данных, веб-разработки и машинного обучения.
+
+skills:
+  - name: 'Программирование'
+    items:
+      - label: 'C#'
+        level: 5
+      - label: 'TypeScript'
+        level: 4
+      - label: 'JavaScript'
+        level: 4
+  - name: 'Фреймворки и библиотеки'
+    items:
+      - label: 'ASP.NET Core'
+        level: 4
+      - label: 'React'
+        level: 4
+  - name: 'Базы данных'
+    items:
+      - label: 'MySQL'
+        level: 4
+      - label: 'PostgreSQL'
+        level: 3
+
+experience:
+  - title: 'Intern Developer'
+    company: 'Яндекс'
+    company_url: 'https://yandex.ru'
+    location: 'Москва, Россия'
+    date_start: '2025-02-01'
+    date_end: '2025-08-31'
+    description: |
+      Работал над внутренними веб-приложениями на C# и ASP.NET Core.
+      Разрабатывал интерфейсы и API, писал документацию, участвовал в командных спринтах.
+      Использовал PostgreSQL для хранения данных и React для фронтенда.
+  - title: 'Студент и практик'
+    company: 'РУДН'
+    location: 'Москва, Россия'
+    date_start: '2024-09-01'
+    date_end: null
+    description: |
+      Учусь на направлении «Прикладная информатика» и изучаю машинное обучение.
+      Реализую проекты по веб-разработке с C#, ASP.NET Core, TypeScript и React.
+      Разрабатываю технические заметки и учебные материалы на сайте.
+
+awards:
+  - title: 'Веб-проект'
+    awarder: 'Факультет РУДН'
+    date_start: '2025-05-01'
+    icon: 'trophy'
+    summary: 'Признан за создание веб-приложения с адаптивным интерфейсом и интеграцией базы данных.'
+  - title: 'Вклад в учебный проект'
+    awarder: 'Команда курса'
+    date_start: '2025-03-01'
+    icon: 'star'
+    summary: 'Скоординировал разработку проекта на C#/ASP.NET Core и помог команде подготовить презентацию.'
+
+languages:
+  - name: 'Русский'
+    level: 'Родной'
+  - name: 'Английский'
+    level: 'Свободный'
+  - name: 'Французский'
+    level: 'Средний'
