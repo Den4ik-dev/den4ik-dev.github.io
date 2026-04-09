@@ -63,22 +63,23 @@ skills:
         level: 3
 
 experience:
-  - title: 'Intern Developer'
-    company: 'Яндекс'
-    company_url: 'https://yandex.ru'
+  - role: 'Intern Developer'
+    org: 'Яндекс'
+    url: 'https://yandex.ru'
     location: 'Москва, Россия'
-    date_start: '2025-02-01'
-    date_end: '2025-08-31'
-    description: |
+    start: '2025-02-01'
+    end: '2025-08-31'
+    summary: |
       Работал над внутренними веб-приложениями на C# и ASP.NET Core.
       Разрабатывал интерфейсы и API, писал документацию, участвовал в командных спринтах.
       Использовал PostgreSQL для хранения данных и React для фронтенда.
-  - title: 'Студент и практик'
-    company: 'РУДН'
+  - role: 'Студент и практик'
+    org: 'РУДН'
+    url: 'https://www.rudn.ru'
     location: 'Москва, Россия'
-    date_start: '2024-09-01'
-    date_end: null
-    description: |
+    start: '2025-09-01'
+    end: null
+    summary: |
       Учусь на направлении «Прикладная информатика» и изучаю машинное обучение.
       Реализую проекты по веб-разработке с C#, ASP.NET Core, TypeScript и React.
       Разрабатываю технические заметки и учебные материалы на сайте.
